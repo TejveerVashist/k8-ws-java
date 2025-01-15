@@ -1,0 +1,2 @@
+https://hub.docker.com/repository/docker/tejveerv/order/tags/latest/sha256-be63707a5867d62a7f7a33ef231dbf5bfbdc788fa8fb1d5d8bd4b204c3fe8441
+https://hub.docker.com/repository/docker/tejveerv/inventory/tags/latest/sha256-2662fe4d8e3749bac94bf21c890dc12f7b1fbbdb5e3abb655a1739f4953bb20c
